@@ -1,0 +1,52 @@
+body{
+	background-color: #f0f0f0;
+	font-family: Arial;
+}
+h1{
+	text-align: center;
+}
+
+.centrer {
+	text-align: center;
+	display: flex;
+}
+
+.photo {
+	width: 100px;
+	height:	100px;
+	border-radius: 50%;
+}
+
+.photo1 {
+	background-image: url("Images/Samantha.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.photo2 {
+	background-image: url("Images/Anais.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.photo3 {
+	background-image: url("Images/Clarence.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.photo4 {
+	background-image: url("Images/Killian.jpg");
+	background-size: cover;
+	background-position: center;
+}
+.photo5 {
+	background-image: url("Images/Louis.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+.carte_personne {
+	display: block
+	text-align: center;
+}
+.image_projet{
+text-align: center;
+}
